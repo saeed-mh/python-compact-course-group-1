@@ -1,7 +1,7 @@
-integer = 5
+integer = 8
 print(float(integer))
 
-floating_point = 5.7
+floating_point = 5.9
 print(int(floating_point))
 
 integer = 10
