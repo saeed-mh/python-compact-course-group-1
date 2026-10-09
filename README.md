@@ -4,9 +4,9 @@ This repository contains the weekly exercises and projects for the Python Compac
 
 ## Group Members
 
-| Name                      | Student ID | Program |
-| ------------------------- | ---------: | ------- |
-| Amin Elkasaby             |    7224933 | ESE     |
-| Saeed Mohammadi Gahrooei   |    7224510 | MDT     |
-| Reza Dolatkhahgonbadghaboos |   7226311 | ESE     |
-| Md Sad Abdullah Sami      |    7225989 | ESE     |
+| Name | Student ID | Program |
+| --- | ---: | --- |
+| Amin Elkasaby | 7224933 | ESE |
+| Saeed Mohammadi Gahrooei | 7224510 | MDT |
+| Reza Dolatkhahgonbadghaboos (❌ Dropped the course on 9 October) | 7226311 | ESE |
+| Md Sad Abdullah Sami | 7225989 | ESE |
